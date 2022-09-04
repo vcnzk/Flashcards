@@ -1,0 +1,27 @@
+# Project exclude paths
+/.gradle/
+/.idea/
+/build/
+/Flashcards/A good stack/
+/Flashcards/IMPORTant/
+/Flashcards/Make it your own/
+/Flashcards/Menu, please/
+/Flashcards/Stage one, card one/
+/Flashcards/Statistics/
+/Flashcards/task/build/
+/Flashcards/task/out/
+/Flashcards/task/test/
+/Flashcards/What’s on the card/
+/Flashcards/lesson-info.yaml
+/Topics/
+/gradle/
+1.txt
+2.txt
+build.gradle
+capitals.txt
+course-info.yaml
+course-remote-info.yaml
+gradlew
+gradlew.bat
+log.txt
+settings.gradle
